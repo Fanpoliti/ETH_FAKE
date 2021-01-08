@@ -13,7 +13,7 @@ Fake news detection in “under-resourced” languages, such as Amharic, is diff
 
 
 # Citation
-Please cite the following original paper/article when you use this dataset.
+Please cite the following original paper/article associated with this dataset when you use it.
 Gereme, Fantahun; Zhu, William; Ayall, Tewodros; Alemu, Dagmawi. 2021. "Combating Fake News in “Low-Resource” Languages: Amharic Fake News Detection Accompanied by Resource Crafting". Information 12, no. 1: 20.
 
 available at url: [https://www.mdpi.com/2078-2489/12/1/20#cite]
