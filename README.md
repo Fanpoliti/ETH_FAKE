@@ -4,12 +4,12 @@ The fake news problem is a recent phenomenon and already a research issue, altho
 Fake news detection in “under-resourced” languages, such as Amharic, is difficult to do because of the absence of a dataset. Though Amharic is a widely used language, and the impact of fake news in the regions using the language is a big concern—both to the government and society—there has not been any fake news detection research done for the Amharic language and there is no Amharic fake news detection dataset. This critical problem motivated us to do fake news detection research and prepare an Amharic fake news detection dataset. We created the first Amharic fake news detection dataset with fine-grained labels and named it ETH_FAKE [4].  
 
 # Dataset Summary
-fine name: ETH_FAKE
-file type: (.csv)
-file size:
-#real news articles: 3,417
-#fake news articles: 3,417
-#total real-fake article: 6,834
+           fine name: ETH_FAKE
+           file type: (.csv)
+           file size:
+           #real news articles: 3,417
+           #fake news articles: 3,417
+           #total real-fake article: 6,834
 
 
 # Citation
