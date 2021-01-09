@@ -1,7 +1,7 @@
 # ETH_FAKE: the first Amharic fake news detection dataset
 The fake news problem is a recent phenomenon and already a research issue, although still relatively less explored [1]. Even though there are research studies done, the scarcity of standard datasets was a common issue raised by many researchers. Deep learning-based fake news detection has been shown to be effective [2,3]. However, the data-hungry nature of this approach and the absence of sufficient datasets have made the research outcomes limited. Even the trials made in preparation of fake news detection datasets focused on the English language. 
 
-Fake news detection in “under-resourced” languages, such as Amharic, is difficult to do because of the absence of a dataset. Though Amharic is a widely used language, and the impact of fake news in the regions using the language is a big concern—both to the government and society—there has not been any fake news detection research done for the Amharic language and there is no Amharic fake news detection dataset. This critical problem motivated us to do fake news detection research and prepare an Amharic fake news detection dataset. We created the first Amharic fake news detection dataset with fine-grained labels and named it ETH_FAKE [4].  
+Fake news detection in “under-resourced” languages, such as Amharic, is difficult to do because of the absence of a dataset. Though Amharic is a widely used language, and the impact of fake news in the regions using the language is a big concern—both to the government and society—there has not been any fake news detection research done for the Amharic language and there is no Amharic fake news detection dataset. This critical problem motivated us to do fake news detection research and prepare an Amharic fake news detection dataset. We created the first Amharic fake news detection dataset with fine-grained labels and named it ETH_FAKE [4].   
 
 # Dataset Summary
            fine name: ETH_FAKE
@@ -14,7 +14,8 @@ Fake news detection in “under-resourced” languages, such as Amharic, is diff
 
 # Citation
 Please cite the following original paper/article associated with this dataset when you use it.
-Gereme, Fantahun; Zhu, William; Ayall, Tewodros; Alemu, Dagmawi. 2021. "Combating Fake News in “Low-Resource” Languages: Amharic Fake News Detection Accompanied by Resource Crafting". Information 12, no. 1: 20.
+
+[ Gereme, Fantahun; Zhu, William; Ayall, Tewodros; Alemu, Dagmawi. 2021. "Combating Fake News in “Low-Resource” Languages: Amharic Fake News Detection Accompanied by Resource Crafting". Information 12, no. 1: 20. ]
 
 available at url: [https://www.mdpi.com/2078-2489/12/1/20#cite]
 
